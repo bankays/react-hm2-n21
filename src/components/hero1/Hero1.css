@@ -1,0 +1,51 @@
+.hero1 {
+  height: 600px;
+}
+
+.left {
+  padding: 220px 0px 0px 0px;
+}
+.hero1-p1 {
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+  width: 350px;
+  color: #163561;
+}
+.hero1-p2 {
+  color: #153461;
+  font-family: Catamaran;
+  padding: 20px 0px 0px 0px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0.75px;
+}
+.hero1-group-btn1 {
+  margin: 30px 0px 0px 0px;
+}
+.hero1-btn1 {
+  width: 120px;
+  height: 45px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #99baed;
+}
+.hero1-btn2 {
+  border-radius: 4px;
+  background: transparent;
+  color: #02897a;
+  width: 130px;
+  height: 40px;
+  margin: 0px 0px 0px 10px;
+}
+.obj1 {
+  display: flex;
+}
+.hero1-img1 {
+  width: 700px;
+  margin: 100px 0px 0px 100px;
+}

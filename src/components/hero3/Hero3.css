@@ -1,0 +1,64 @@
+.hero3 {
+  height: 650px;
+  padding: 100px 0px 0px 0px;
+}
+.hero3-p1 {
+  color: #163561;
+  text-align: center;
+  font-family: Catamaran;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 116.6%;
+  letter-spacing: 2.1px;
+  padding-bottom: 40px;
+}
+.card1 {
+  width: 300px;
+  height: 400px;
+  flex-shrink: 0;
+  margin: 0px 0px 0px 75px;
+  /* background-color: rgb(162, 45, 45); */
+  border-radius: 29px;
+  background: #fafbff;
+  box-shadow: 0px 5px 0px 0px #99baed;
+}
+.card1:hover {
+  background-color: #99baed;
+  transition: 0.4s;
+}
+.hero3-img1 {
+  margin: 35px 0px 0px 125px;
+}
+.hero3-img2 {
+  margin: 15px 0px 0px 100px;
+}
+.hero3-p2 {
+  color: #153461;
+  text-align: center;
+  font-family: Catamaran;
+  font-size: 25px;
+  margin: 35px 0px 0px 0px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 116.6%;
+  letter-spacing: 1.35px;
+}
+.hero3-p3 {
+  color: #153461;
+  /* color: #fff; */
+  text-align: center;
+  font-family: Catamaran;
+  font-size: 18px;
+  margin: 60px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150.6%;
+  letter-spacing: 0.75px;
+}
+.hero3-obj1 {
+  display: flex;
+
+  /* gap: 100px; */
+}

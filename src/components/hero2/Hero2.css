@@ -1,0 +1,64 @@
+/* .hero2 {
+
+} */
+
+.left2 {
+  padding: 140px 0px 0px 130px;
+}
+.hero2-p1 {
+  color: #22343d;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+  width: 350px;
+}
+.hero2-p2 {
+  color: #153461;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130.6%;
+  max-width: 400px;
+  padding: 40px 0px 0px 0px;
+}
+.hero2-p3 {
+  color: #153461;
+  font-family: Catamaran;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130.6%;
+  max-width: 400px;
+  padding: 40px 0px 0px 0px;
+}
+.hero2-group-btn1 {
+  margin: 30px 0px 0px 0px;
+}
+.hero2-btn1 {
+  width: 120px;
+  height: 45px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  border-radius: 20px;
+  color: white;
+  background: #99baed;
+}
+.hero2-btn2 {
+  border-radius: 4px;
+  background: transparent;
+  color: #02897a;
+  width: 130px;
+  height: 40px;
+  margin: 0px 0px 0px 10px;
+}
+.hero2-obj1 {
+  display: flex;
+  height: 700px;
+}
+.hero2-img1 {
+  width: 500px;
+  margin: 100px 0px 0px 0px;
+}

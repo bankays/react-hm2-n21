@@ -1,0 +1,35 @@
+.footer {
+  height: 300px;
+}
+.footer-img1 {
+  margin: 30px 0px 0px 500px;
+  width: 100px;
+}
+.footer-p1 {
+  margin: -50px 0px 0px 570px;
+  font-size: 32px;
+  font: bolder;
+  color: #99baed;
+  font-family: Catamaran;
+
+  font-style: normal;
+  font-weight: 600;
+  line-height: 133.6%;
+}
+.footer-p2 {
+  color: #153461;
+  text-align: center;
+  font-family: Catamaran;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150.6%;
+  max-width: 400px;
+  letter-spacing: 0.75px;
+  margin: 20px 0px 0px 390px;
+}
+.imgs {
+  margin: 30px 0px 0px 520px;
+  display: flex;
+  gap: 30px;
+}
